@@ -1,0 +1,12 @@
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.AccessData\bin\Debug\netcoreapp3.1\Layer.AccessData.deps.json
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.AccessData\bin\Debug\netcoreapp3.1\Layer.AccessData.dll
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.AccessData\bin\Debug\netcoreapp3.1\Layer.AccessData.pdb
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.AccessData\bin\Debug\netcoreapp3.1\Layer.Entity.dll
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.AccessData\bin\Debug\netcoreapp3.1\Layer.Entity.pdb
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.AccessData\obj\Debug\netcoreapp3.1\Layer.AccessData.csprojAssemblyReference.cache
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.AccessData\obj\Debug\netcoreapp3.1\Layer.AccessData.AssemblyInfoInputs.cache
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.AccessData\obj\Debug\netcoreapp3.1\Layer.AccessData.AssemblyInfo.cs
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.AccessData\obj\Debug\netcoreapp3.1\Layer.AccessData.csproj.CoreCompileInputs.cache
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.AccessData\obj\Debug\netcoreapp3.1\Layer.AccessData.csproj.CopyComplete
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.AccessData\obj\Debug\netcoreapp3.1\Layer.AccessData.dll
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.AccessData\obj\Debug\netcoreapp3.1\Layer.AccessData.pdb

@@ -1,0 +1,14 @@
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Domain\bin\Debug\netcoreapp3.1\Layer.Domain.deps.json
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Domain\bin\Debug\netcoreapp3.1\Layer.Domain.dll
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Domain\bin\Debug\netcoreapp3.1\Layer.Domain.pdb
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Domain\bin\Debug\netcoreapp3.1\Layer.AccessData.dll
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Domain\bin\Debug\netcoreapp3.1\Layer.Entity.dll
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Domain\bin\Debug\netcoreapp3.1\Layer.AccessData.pdb
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Domain\bin\Debug\netcoreapp3.1\Layer.Entity.pdb
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Domain\obj\Debug\netcoreapp3.1\Layer.Domain.csprojAssemblyReference.cache
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Domain\obj\Debug\netcoreapp3.1\Layer.Domain.AssemblyInfoInputs.cache
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Domain\obj\Debug\netcoreapp3.1\Layer.Domain.AssemblyInfo.cs
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Domain\obj\Debug\netcoreapp3.1\Layer.Domain.csproj.CoreCompileInputs.cache
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Domain\obj\Debug\netcoreapp3.1\Layer.Domain.csproj.CopyComplete
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Domain\obj\Debug\netcoreapp3.1\Layer.Domain.dll
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Domain\obj\Debug\netcoreapp3.1\Layer.Domain.pdb

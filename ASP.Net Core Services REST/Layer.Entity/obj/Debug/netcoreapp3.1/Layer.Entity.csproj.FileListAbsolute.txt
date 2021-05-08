@@ -1,0 +1,9 @@
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Entity\bin\Debug\netcoreapp3.1\Layer.Entity.deps.json
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Entity\bin\Debug\netcoreapp3.1\Layer.Entity.dll
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Entity\bin\Debug\netcoreapp3.1\Layer.Entity.pdb
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Entity\obj\Debug\netcoreapp3.1\Layer.Entity.csprojAssemblyReference.cache
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Entity\obj\Debug\netcoreapp3.1\Layer.Entity.AssemblyInfoInputs.cache
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Entity\obj\Debug\netcoreapp3.1\Layer.Entity.AssemblyInfo.cs
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Entity\obj\Debug\netcoreapp3.1\Layer.Entity.csproj.CoreCompileInputs.cache
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Entity\obj\Debug\netcoreapp3.1\Layer.Entity.dll
+D:\Datos\Proyectos\AVANTISOFT\Estilo Web\Articulos\ASP.Net Core y Servicios REST\Fuentes\ASP.Net Core Services REST\Layer.Entity\obj\Debug\netcoreapp3.1\Layer.Entity.pdb
